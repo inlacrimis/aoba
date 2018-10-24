@@ -109,4 +109,4 @@ bot.on('message', message => {
 });
 
 // Only run the bot if the token was provided
-config.token && bot.login(config.token);
+bot.login(process.env.TOKEN);
