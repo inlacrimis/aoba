@@ -1,0 +1,17 @@
+{
+  "name": "bot-base",
+  "version": "1.0.0",
+  "description": "A simple Discord.js bot base.",
+  "main": "bot.js",
+  "repository": "https://github.com/RayzrDev/bot-base.git",
+  "author": "Rayzr522 <rayzr522@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord-embed-maker": "^3.0.8",
+    "discord.js": "^11.3.2",
+    "fs": "0.0.1-security",
+    "google-images": "^2.1.0",
+    "nekos.life": "^1.1.4",
+    "path": "^0.12.7"
+  }
+}
